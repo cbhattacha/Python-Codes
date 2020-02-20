@@ -1,4 +1,4 @@
 # Python-Codes
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cbhattacha/Python-Codes/blob/master/Fourier_Series.ipynb/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://github.com/cbhattacha/Python-Codes/blob/master/Fourier_Series.ipynb)
 .. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/cbhattacha/Python-Codes/blob/master/Fourier_Series.ipynb/master
+ :target: https://github.com/cbhattacha/Python-Codes/blob/master/Fourier_Series.ipynb
